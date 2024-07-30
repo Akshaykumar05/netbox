@@ -44,6 +44,18 @@ apt-cache policy docker-ce
 ```
 
 ### Step-7
+* Install Docker:
+```
+sudo apt install docker-ce
+```
+
+### Step-8
+* Start and enable Docker:
+```
+sudo systemctl start docker
+sudo systemctl enable docker
+```
+
 
 
 
