@@ -78,12 +78,15 @@ sudo apt update
 ```
 apt-cache policy docker-ce
 ```
+![netbox 5](https://github.com/user-attachments/assets/5c8c837f-6e19-4fb2-a18a-f8b85273f1f1)
 
 ### Step-7
 * Install Docker:
 ```
 sudo apt install docker-ce
 ```
+![netbox 7](https://github.com/user-attachments/assets/3bd15e13-fd4a-4140-a0ce-71f66d286828)
+
 
 ### Step-8
 * Start and enable Docker:
@@ -91,6 +94,7 @@ sudo apt install docker-ce
 sudo systemctl start docker
 sudo systemctl enable docker
 ```
+![netbox 8](https://github.com/user-attachments/assets/27df305e-0b50-44ab-84f1-59ea1d18b474)
 
 
 
