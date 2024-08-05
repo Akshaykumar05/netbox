@@ -47,12 +47,15 @@ We'll install Netbox on Docker. So its prerequisite is Docker.
 ### Step-1 
 * Update the existing list of packages:
 ```
-sudo apt get update
+sudo apt-get update
 ```
 ![netbox 1 sudo update](https://github.com/user-attachments/assets/0035ded9-a97f-43d0-9e44-8dfe6b37d442)
 
 ### Step-2
 * Install the necessary packages to allow apt to use a repository over HTTPS:
+```
+sudo apt install apt-transport-https ca-certificates curl software-properties-common
+```
 ![netbox 2](https://github.com/user-attachments/assets/e39905ff-8c92-4b1a-a4f8-fed6a52ede93)
 
 ### Step-3
