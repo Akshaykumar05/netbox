@@ -99,6 +99,20 @@ sudo systemctl enable docker
 ```
 ![netbox 8](https://github.com/user-attachments/assets/27df305e-0b50-44ab-84f1-59ea1d18b474)
 
+### Step-9
+* Now install netbox
+```
+git clone https://github.com/netbox-community/netbox-docker
+```
+![image](https://github.com/user-attachments/assets/03650ced-adb0-4f6d-bc39-74c9b2d1e58c)
+
+### Step-10
+* Next, create a docker-compose.override.yml file. This step allows you to customize the Docker Compose setup without altering the original docker-compose.yml file. You might use a text editor like vim (or any editor you're comfortable with) to create and edit this file.
+```
+vim docker-compose.override.yml
+```
+![image](https://github.com/user-attachments/assets/db4510a2-4261-4188-a3f9-125874aa7951)
+
 
 
 
