@@ -99,6 +99,14 @@ sudo systemctl enable docker
 ```
 ![netbox 8](https://github.com/user-attachments/assets/27df305e-0b50-44ab-84f1-59ea1d18b474)
 
+* Check your docker version
+```
+docker --version
+```
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/7e863d4a-bf00-4ee8-a575-dde6553152e9">
+
+
+
 ### Step-9
 * Now install netbox
 ```
