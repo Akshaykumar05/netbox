@@ -121,6 +121,11 @@ vim docker-compose.override.yml
 ```
 ![image](https://github.com/user-attachments/assets/db4510a2-4261-4188-a3f9-125874aa7951)
 
+### Step-11
+* Now hit the local IP ```127.0.0.1:8000``` adress on the web portal. You'll see the Netbx.
+  <img width="925" alt="image" src="https://github.com/user-attachments/assets/5bb302a8-78c3-4059-a385-ba82b72a8f5f">
+
+
 
 
 
